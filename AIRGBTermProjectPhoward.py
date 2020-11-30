@@ -3,8 +3,9 @@ Price Howard
 11/30/2020
 CS 470 Artificial Intelligence Term Project
 """
-"""Snipits of code for the loop function and the GPIO ports were found here. That code was written by: elktros the Administrator of electronicshub.org
-
+"""
+Snipits of code for the loop function and the GPIO ports were found here. That code was written by: elktros the Administrator of electronicshub.org
+https://www.electronicshub.org/raspberry-pi-color-sensor-tutorial/
 """
 
 import RPi.GPIO as GPIO
